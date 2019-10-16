@@ -54,7 +54,7 @@ var card = movies.map(function(movie){
 					),
 					
 					React.createElement('div', {className: 'card_right_button'},
-							React.createElement('a', {href: movie.video, target: '_blank'}, 'Watch triler' )
+							React.createElement('a', {href: movie.video, target: '_blank'}, 'Watch trailer' )
 						)
 				)
 			)
