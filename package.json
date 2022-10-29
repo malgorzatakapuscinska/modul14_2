@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/malgorzatakapuscinska/modul13_5#readme",
   "dependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.27.10",
     "colors": "^1.1.2",
     "formidable": "^1.1.1",
     "mv": "^2.1.1",
