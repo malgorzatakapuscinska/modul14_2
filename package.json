@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/malgorzatakapuscinska/modul13_5#readme",
   "dependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.29.1",
     "colors": "^1.1.2",
     "formidable": "^1.1.1",
     "mv": "^2.1.1",
@@ -46,7 +46,7 @@
     "mkdirp": "^0.5.1",
     "node-sass": "^4.7.2",
     "nu-html-checker": "^0.1.0",
-    "onchange": "^3.3.0",
+    "onchange": "^7.1.0",
     "parallelshell": "^3.0.2",
     "rimraf": "^2.6.2"
   }
